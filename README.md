@@ -1,9 +1,12 @@
 Usage
 To run this web on your computer, follow these steps:
 
-Clone the repository to your local machine.
-run npm i for client and server
-initialize env for server
+Clone the repository to your local machine,
+
+run npm i for client and server,
+
+initialize env for server,
+
 then run the project using npm run dev
 
 Open the project in your browser at http://localhost:3000 to view your project.
